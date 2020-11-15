@@ -9,4 +9,6 @@ zipCode : Replace with any zip
 city : corresponding city
 countryCOde : corresponding country
 
-Even after fetching the geo codes for the ZIP from google we need city and country code for weather report from Open weather rest API's
+Even after fetching the geo codes for the ZIP from google we need city and country code for weather report from Open weather rest API's.
+
+Replace YOUR_GOOGLE_API_KEY and YOUR_OPEN_WEATHER_MAP_API_KEY in application.properties in webservices with your API keys
